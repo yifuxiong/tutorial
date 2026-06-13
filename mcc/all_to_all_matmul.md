@@ -1,5 +1,7 @@
 ## all_to_all_matmul
 
+参考Ascend hccl高阶API：https://www.hiascend.com/document/detail/zh/canncommercial/900/API/ascendcopapi/atlasascendc_api_07_0875.html
+
 ### 理解
 
 `mc2/allto_all_matmul/op_kernel/arch35/allto_all_kc_quant_matmul_arch35.h`
